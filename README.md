@@ -1,17 +1,8 @@
-## Oii, meu nome é Assucena e sou estudante de Ciência da Computação!
-
-<div align="center">
-  <a href="https://github.com/assucena-lopes">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=assucena-lopes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=assucena-lopes&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
-  
-  ##
+# Hi, I'm Assucena Lopes 👋
  
-<div> 
-  <a href="https://instagram.com/assucena_lopes" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:contatoassucena.lopes@sou.unifal-mg.edu.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  
-  ![Snake animation](https://github.com/assucena-lopes/assucena-lopes/blob/output/github-contribution-grid-snake.svg)
+I'm a machine learning researcher.
  
-</div>
+## 📬 Connect with me
+ 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/assucena-lopes-1a24a1291/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:assucena.lopes@usp.br)
